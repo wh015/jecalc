@@ -1,0 +1,32 @@
+{
+    "items": [
+        {
+            "name": "Beer",
+            "price": 5.27,
+            "count": 4,
+            "consumers": [
+                "Alice",
+                "Bob"
+            ]
+        },
+        {
+            "name": "Vodka",
+            "price": 7.89,
+            "count": 1,
+            "consumers": [
+                "Ivan"
+            ]
+        },
+        {
+            "name": "Сhips",
+            "price": 4.30,
+            "count": 3
+        },
+        {
+            "name": "Fish sticks",
+            "price": 5.21,
+            "count": 3,
+            "consumers": []
+        }
+    ]
+}
